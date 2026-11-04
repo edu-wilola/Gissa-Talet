@@ -1,5 +1,2 @@
-print("Hello, Guessor!")
-
-guess = int(input("Ange din gissning mellan 1 och 10:"))
-
-print(guess)
+spelaren_namn = input("Vad heter du?")
+print("Hej", spelaren_namn, "och välkommen till spelet!")
